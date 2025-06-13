@@ -376,7 +376,7 @@ MonoBehaviour:
   - _tweenName: 
     _tweenType: 0
     _isSelf: 1
-    _tweenObject: {fileID: 1058855320}
+    _tweenObject: {fileID: 106557289}
     _curve:
       serializedVersion: 2
       m_Curve:
@@ -406,8 +406,8 @@ MonoBehaviour:
     _minTime: 0
     _maxTime: 0.22982457
     _isLocal: 1
-    _fromVector: {x: 600, y: 800, z: 0}
-    _toVector: {x: 600, y: 0, z: 0}
+    _fromVector: {x: 180, y: 800, z: 0}
+    _toVector: {x: 180, y: 0, z: 0}
     _fromColor: {r: 1, g: 1, b: 1, a: 1}
     _toColor: {r: 1, g: 1, b: 1, a: 1}
     _fromFloat: 0
@@ -521,7 +521,7 @@ MonoBehaviour:
   - _tweenName: 
     _tweenType: 0
     _isSelf: 1
-    _tweenObject: {fileID: 1058855320}
+    _tweenObject: {fileID: 297028419}
     _curve:
       serializedVersion: 2
       m_Curve:
@@ -551,8 +551,8 @@ MonoBehaviour:
     _minTime: 0
     _maxTime: 0.22982457
     _isLocal: 1
-    _fromVector: {x: 600, y: 800, z: 0}
-    _toVector: {x: 600, y: 0, z: 0}
+    _fromVector: {x: -540, y: 800, z: 0}
+    _toVector: {x: -540, y: 0, z: 0}
     _fromColor: {r: 1, g: 1, b: 1, a: 1}
     _toColor: {r: 1, g: 1, b: 1, a: 1}
     _fromFloat: 0
@@ -666,7 +666,7 @@ MonoBehaviour:
   - _tweenName: 
     _tweenType: 0
     _isSelf: 1
-    _tweenObject: {fileID: 1058855320}
+    _tweenObject: {fileID: 307298326}
     _curve:
       serializedVersion: 2
       m_Curve:
@@ -696,8 +696,8 @@ MonoBehaviour:
     _minTime: 0
     _maxTime: 0.22982457
     _isLocal: 1
-    _fromVector: {x: 600, y: 800, z: 0}
-    _toVector: {x: 600, y: 0, z: 0}
+    _fromVector: {x: -360, y: 800, z: 0}
+    _toVector: {x: -360, y: 0, z: 0}
     _fromColor: {r: 1, g: 1, b: 1, a: 1}
     _toColor: {r: 1, g: 1, b: 1, a: 1}
     _fromFloat: 0
@@ -905,7 +905,7 @@ MonoBehaviour:
   - _tweenName: 
     _tweenType: 0
     _isSelf: 1
-    _tweenObject: {fileID: 1058855320}
+    _tweenObject: {fileID: 430195071}
     _curve:
       serializedVersion: 2
       m_Curve:
@@ -935,8 +935,8 @@ MonoBehaviour:
     _minTime: 0
     _maxTime: 0.22982457
     _isLocal: 1
-    _fromVector: {x: 600, y: 800, z: 0}
-    _toVector: {x: 600, y: 0, z: 0}
+    _fromVector: {x: 0, y: 800, z: 0}
+    _toVector: {x: 0, y: 0, z: 0}
     _fromColor: {r: 1, g: 1, b: 1, a: 1}
     _toColor: {r: 1, g: 1, b: 1, a: 1}
     _fromFloat: 0
@@ -1050,7 +1050,7 @@ MonoBehaviour:
   - _tweenName: 
     _tweenType: 0
     _isSelf: 1
-    _tweenObject: {fileID: 1058855320}
+    _tweenObject: {fileID: 466469871}
     _curve:
       serializedVersion: 2
       m_Curve:
@@ -1080,8 +1080,8 @@ MonoBehaviour:
     _minTime: 0
     _maxTime: 0.22982457
     _isLocal: 1
-    _fromVector: {x: 600, y: 800, z: 0}
-    _toVector: {x: 600, y: 0, z: 0}
+    _fromVector: {x: 300, y: 800, z: 0}
+    _toVector: {x: 300, y: 0, z: 0}
     _fromColor: {r: 1, g: 1, b: 1, a: 1}
     _toColor: {r: 1, g: 1, b: 1, a: 1}
     _fromFloat: 0
@@ -1195,7 +1195,7 @@ MonoBehaviour:
   - _tweenName: 
     _tweenType: 0
     _isSelf: 1
-    _tweenObject: {fileID: 1058855320}
+    _tweenObject: {fileID: 511688495}
     _curve:
       serializedVersion: 2
       m_Curve:
@@ -1225,8 +1225,8 @@ MonoBehaviour:
     _minTime: 0
     _maxTime: 0.22982457
     _isLocal: 1
-    _fromVector: {x: 600, y: 800, z: 0}
-    _toVector: {x: 600, y: 0, z: 0}
+    _fromVector: {x: -180, y: 800, z: 0}
+    _toVector: {x: -180, y: 0, z: 0}
     _fromColor: {r: 1, g: 1, b: 1, a: 1}
     _toColor: {r: 1, g: 1, b: 1, a: 1}
     _fromFloat: 0
@@ -1340,7 +1340,7 @@ MonoBehaviour:
   - _tweenName: 
     _tweenType: 0
     _isSelf: 1
-    _tweenObject: {fileID: 1058855320}
+    _tweenObject: {fileID: 641240026}
     _curve:
       serializedVersion: 2
       m_Curve:
@@ -1370,8 +1370,8 @@ MonoBehaviour:
     _minTime: 0
     _maxTime: 0.22982457
     _isLocal: 1
-    _fromVector: {x: 600, y: 800, z: 0}
-    _toVector: {x: 600, y: 0, z: 0}
+    _fromVector: {x: 60, y: 800, z: 0}
+    _toVector: {x: 60, y: 0, z: 0}
     _fromColor: {r: 1, g: 1, b: 1, a: 1}
     _toColor: {r: 1, g: 1, b: 1, a: 1}
     _fromFloat: 0
@@ -1485,7 +1485,7 @@ MonoBehaviour:
   - _tweenName: 
     _tweenType: 0
     _isSelf: 1
-    _tweenObject: {fileID: 1058855320}
+    _tweenObject: {fileID: 761227039}
     _curve:
       serializedVersion: 2
       m_Curve:
@@ -1515,8 +1515,8 @@ MonoBehaviour:
     _minTime: 0
     _maxTime: 0.22982457
     _isLocal: 1
-    _fromVector: {x: 600, y: 800, z: 0}
-    _toVector: {x: 600, y: 0, z: 0}
+    _fromVector: {x: -600, y: 800, z: 0}
+    _toVector: {x: -600, y: 0, z: 0}
     _fromColor: {r: 1, g: 1, b: 1, a: 1}
     _toColor: {r: 1, g: 1, b: 1, a: 1}
     _fromFloat: 0
@@ -1621,7 +1621,7 @@ MonoBehaviour:
   animationStartTime: 0
   animationTime: 0.22982457
   enablePlay: 0
-  awakePlay: 1
+  awakePlay: 0
   lgnoreTimeScale: 1
   randomStartValue: 0
   startValue: 0
@@ -1775,7 +1775,7 @@ MonoBehaviour:
   - _tweenName: 
     _tweenType: 0
     _isSelf: 1
-    _tweenObject: {fileID: 1058855320}
+    _tweenObject: {fileID: 948091274}
     _curve:
       serializedVersion: 2
       m_Curve:
@@ -1805,8 +1805,8 @@ MonoBehaviour:
     _minTime: 0
     _maxTime: 0.22982457
     _isLocal: 1
-    _fromVector: {x: 600, y: 800, z: 0}
-    _toVector: {x: 600, y: 0, z: 0}
+    _fromVector: {x: -300, y: 800, z: 0}
+    _toVector: {x: -300, y: 0, z: 0}
     _fromColor: {r: 1, g: 1, b: 1, a: 1}
     _toColor: {r: 1, g: 1, b: 1, a: 1}
     _fromFloat: 0
@@ -2003,7 +2003,7 @@ MonoBehaviour:
   animationStartTime: 0
   animationTime: 0.22982457
   enablePlay: 0
-  awakePlay: 1
+  awakePlay: 0
   lgnoreTimeScale: 1
   randomStartValue: 0
   startValue: 0
@@ -2225,7 +2225,7 @@ MonoBehaviour:
   - _tweenName: 
     _tweenType: 0
     _isSelf: 1
-    _tweenObject: {fileID: 1058855320}
+    _tweenObject: {fileID: 1200559518}
     _curve:
       serializedVersion: 2
       m_Curve:
@@ -2255,8 +2255,8 @@ MonoBehaviour:
     _minTime: 0
     _maxTime: 0.22982457
     _isLocal: 1
-    _fromVector: {x: 600, y: 800, z: 0}
-    _toVector: {x: 600, y: 0, z: 0}
+    _fromVector: {x: 240, y: 800, z: 0}
+    _toVector: {x: 240, y: 0, z: 0}
     _fromColor: {r: 1, g: 1, b: 1, a: 1}
     _toColor: {r: 1, g: 1, b: 1, a: 1}
     _fromFloat: 0
@@ -2370,7 +2370,7 @@ MonoBehaviour:
   - _tweenName: 
     _tweenType: 0
     _isSelf: 1
-    _tweenObject: {fileID: 1058855320}
+    _tweenObject: {fileID: 1347407758}
     _curve:
       serializedVersion: 2
       m_Curve:
@@ -2400,8 +2400,8 @@ MonoBehaviour:
     _minTime: 0
     _maxTime: 0.22982457
     _isLocal: 1
-    _fromVector: {x: 600, y: 800, z: 0}
-    _toVector: {x: 600, y: 0, z: 0}
+    _fromVector: {x: -60, y: 800, z: 0}
+    _toVector: {x: -60, y: 0, z: 0}
     _fromColor: {r: 1, g: 1, b: 1, a: 1}
     _toColor: {r: 1, g: 1, b: 1, a: 1}
     _fromFloat: 0
@@ -2515,7 +2515,7 @@ MonoBehaviour:
   - _tweenName: 
     _tweenType: 0
     _isSelf: 1
-    _tweenObject: {fileID: 1058855320}
+    _tweenObject: {fileID: 1402403493}
     _curve:
       serializedVersion: 2
       m_Curve:
@@ -2545,8 +2545,8 @@ MonoBehaviour:
     _minTime: 0
     _maxTime: 0.22982457
     _isLocal: 1
-    _fromVector: {x: 600, y: 800, z: 0}
-    _toVector: {x: 600, y: 0, z: 0}
+    _fromVector: {x: -480, y: 800, z: 0}
+    _toVector: {x: -480, y: 0, z: 0}
     _fromColor: {r: 1, g: 1, b: 1, a: 1}
     _toColor: {r: 1, g: 1, b: 1, a: 1}
     _fromFloat: 0
@@ -2660,7 +2660,7 @@ MonoBehaviour:
   - _tweenName: 
     _tweenType: 0
     _isSelf: 1
-    _tweenObject: {fileID: 1058855320}
+    _tweenObject: {fileID: 1402990840}
     _curve:
       serializedVersion: 2
       m_Curve:
@@ -2690,8 +2690,8 @@ MonoBehaviour:
     _minTime: 0
     _maxTime: 0.22982457
     _isLocal: 1
-    _fromVector: {x: 600, y: 800, z: 0}
-    _toVector: {x: 600, y: 0, z: 0}
+    _fromVector: {x: 120, y: 800, z: 0}
+    _toVector: {x: 120, y: 0, z: 0}
     _fromColor: {r: 1, g: 1, b: 1, a: 1}
     _toColor: {r: 1, g: 1, b: 1, a: 1}
     _fromFloat: 0
@@ -2880,7 +2880,7 @@ MonoBehaviour:
   - _tweenName: 
     _tweenType: 0
     _isSelf: 1
-    _tweenObject: {fileID: 1058855320}
+    _tweenObject: {fileID: 1505132069}
     _curve:
       serializedVersion: 2
       m_Curve:
@@ -2910,8 +2910,8 @@ MonoBehaviour:
     _minTime: 0
     _maxTime: 0.22982457
     _isLocal: 1
-    _fromVector: {x: 600, y: 800, z: 0}
-    _toVector: {x: 600, y: 0, z: 0}
+    _fromVector: {x: -240, y: 800, z: 0}
+    _toVector: {x: -240, y: 0, z: 0}
     _fromColor: {r: 1, g: 1, b: 1, a: 1}
     _toColor: {r: 1, g: 1, b: 1, a: 1}
     _fromFloat: 0
@@ -3170,7 +3170,7 @@ MonoBehaviour:
   - _tweenName: 
     _tweenType: 0
     _isSelf: 1
-    _tweenObject: {fileID: 1058855320}
+    _tweenObject: {fileID: 1596427375}
     _curve:
       serializedVersion: 2
       m_Curve:
@@ -3200,8 +3200,8 @@ MonoBehaviour:
     _minTime: 0
     _maxTime: 0.22982457
     _isLocal: 1
-    _fromVector: {x: 600, y: 800, z: 0}
-    _toVector: {x: 600, y: 0, z: 0}
+    _fromVector: {x: -420, y: 800, z: 0}
+    _toVector: {x: -420, y: 0, z: 0}
     _fromColor: {r: 1, g: 1, b: 1, a: 1}
     _toColor: {r: 1, g: 1, b: 1, a: 1}
     _fromFloat: 0
@@ -3418,7 +3418,7 @@ MonoBehaviour:
   - _tweenName: 
     _tweenType: 0
     _isSelf: 1
-    _tweenObject: {fileID: 1058855320}
+    _tweenObject: {fileID: 2088469820}
     _curve:
       serializedVersion: 2
       m_Curve:
@@ -3448,8 +3448,8 @@ MonoBehaviour:
     _minTime: 0
     _maxTime: 0.22982457
     _isLocal: 1
-    _fromVector: {x: 600, y: 800, z: 0}
-    _toVector: {x: 600, y: 0, z: 0}
+    _fromVector: {x: -120, y: 800, z: 0}
+    _toVector: {x: -120, y: 0, z: 0}
     _fromColor: {r: 1, g: 1, b: 1, a: 1}
     _toColor: {r: 1, g: 1, b: 1, a: 1}
     _fromFloat: 0
