@@ -17,6 +17,7 @@ public class EnemyController : MonoBehaviour
     [SerializeField] GameManager _gameManager;
 
     [SerializeField] GameObject _deadEffect;
+    [SerializeField] AudioClip _deadSoundClip;
 
     // 임시
     [SerializeField] int nodeNum = 9;
@@ -40,7 +41,7 @@ public class EnemyController : MonoBehaviour
             Vector3 dir = _curTargetPos.position - transform.position;
             dir.y = 0;
             dir.Normalize();
-            _characterController.SimpleMove(dir * _moveSpeed);
+            _characterController.SimpleMove(dir * _gameManager.CurrentEnemySpeed);
             transform.rotation = Quaternion.Lerp(transform.rotation, Quaternion.LookRotation(dir), _rotationSpeed * Time.deltaTime);
 
             if (distance < 0.2f)
@@ -60,6 +61,7 @@ public class EnemyController : MonoBehaviour
                 isDead = true;
                 _gameManager._killCount++;
                 Instantiate(_deadEffect, transform.position, transform.rotation);
+                AudioSource.PlayClipAtPoint(_deadSoundClip, transform.position);
                 GetComponentInChildren<HUDHpBar>().DestroyHpBar();
                 Destroy(gameObject);
             }

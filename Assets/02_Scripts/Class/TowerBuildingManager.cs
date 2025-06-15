@@ -7,6 +7,8 @@ public class TowerBuildingManager : MonoBehaviour
     [SerializeField] GameObject _towerPrefab;
     [SerializeField] GameObject _strongTowerPrefab;
     [SerializeField] GameObject _strongTowerEffect;
+    [SerializeField] AudioClip _towerAudioClip;
+    [SerializeField] AudioClip _strongTowerAudioClip;
 
     [SerializeField] GameObject _upgradePanel;
     [SerializeField] UpgradeManager _upgradeManager;
@@ -48,6 +50,7 @@ public class TowerBuildingManager : MonoBehaviour
                                 GameObject strongTower = Instantiate(_strongTowerPrefab);
                                 strongTower.transform.position = hit.collider.transform.position +
                                     new Vector3(0, hit.collider.gameObject.transform.localScale.y, 0);
+                                AudioSource.PlayClipAtPoint(_strongTowerAudioClip, transform.position);
 
                                 StrongTowerController strongCtrl = strongTower.GetComponent<StrongTowerController>();
                                 _fusionController._placedTowers.Add(strongCtrl);
@@ -59,6 +62,7 @@ public class TowerBuildingManager : MonoBehaviour
                                 GameObject tower = Instantiate(_towerPrefab);
                                 tower.transform.position = hit.collider.transform.position +
                                     new Vector3(0, hit.collider.gameObject.transform.localScale.y, 0);
+                                AudioSource.PlayClipAtPoint(_towerAudioClip, transform.position);
 
                                 // 리스트에 추가
                                 TowerController towerCtrl = tower.GetComponent<TowerController>();

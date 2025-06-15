@@ -47,6 +47,7 @@ public class EnemySpawner : MonoBehaviour
 
     public void InitEnemySpawner()
     {
+        if (_enemyCount < _enemyMaxCount) return;
         _enemyCount = 0;
         _isRunning = true;
         _gameManager._currentLevel++;

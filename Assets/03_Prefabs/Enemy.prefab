@@ -155,12 +155,13 @@ MonoBehaviour:
   _targetPos: []
   _characterController: {fileID: 8848617295164220469}
   _curTargetPos: {fileID: 0}
-  _moveSpeed: 10
+  _moveSpeed: 30
   _rotationSpeed: 10
   _enemyHp: 100
   isDead: 0
   _gameManager: {fileID: 0}
   _deadEffect: {fileID: 7140854256685320690, guid: 0e2eb516f65c56d4aa29fe5bf149714d, type: 3}
+  _deadSoundClip: {fileID: 8300000, guid: 93dab132af28e0c4fa7c76eeafe5c41f, type: 3}
   nodeNum: 9
 --- !u!143 &8848617295164220469
 CharacterController:

@@ -6,7 +6,7 @@ public class GameManager : MonoBehaviour
 {
     public int _currentLevel = 1;
     [SerializeField] int _currentEnemyHp = 100;
-    [SerializeField] float _currentEnemySpeed = 1f;
+    [SerializeField] float _currentEnemySpeed = 2f;
     [SerializeField] int _enemyCountByStage = 2;
     public int _killCount = 0;
     
